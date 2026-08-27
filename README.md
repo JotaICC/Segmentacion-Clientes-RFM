@@ -59,6 +59,8 @@ El proyecto incluye un dashboard desarrollado en Power BI para visualizar:
 
 ### Dashboard RFM
 
+![Dashboard RFM](Captura_Dasboard.png)
+
 ## Estructura del proyecto
 
 ```text
